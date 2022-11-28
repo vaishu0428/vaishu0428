@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en" alt="vaishu0428" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&" alt="vaishu0428" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=vaishu0428&theme=react-dark">
