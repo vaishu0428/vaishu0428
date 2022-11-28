@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React , DSA.**
+- 💬 Ask me about **HTML, CSS, Chakra, JavaScript, React , DSA.**
 
 - 📫 How to reach me **vaishnvischaudhari28@gmail.com**
 
