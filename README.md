@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu0428&label=Profile%20views&color=0e75b6&style=flat" alt="vaishu0428" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react,nodejs,express,mongodb.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React , DSA.**
 
 - 📫 How to reach me **vaishnvischaudhari28@gmail.com**
 
