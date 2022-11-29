@@ -16,7 +16,9 @@
 
 <h2 align="left"> 📫 Connect with me :</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" height="30" width="100" /></a>
+  
+  <a href="https://github.com/vaishu0428" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/vaishu0428" height="30" width="100" /></a>
 </p>
 
 <h2 align="left"> 🚀 Languages and Tools :</h2>
@@ -44,7 +46,7 @@
   <img src="https://camo.githubusercontent.com/85232e7b5095a716ed285b0b2150cc5b400a0bb602539912d26d312ea0b0d95b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d6634346432373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="react" width="70" height="30"/> 
   
   <img src="https://camo.githubusercontent.com/f82ac85fe97f0da1e1ae1da9395a4f22904e577fbe6f0bcaeb3a7b21c10eeff3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d77686974" alt="react" width="70" height="30"/> 
-   <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="redux" width="95" height="30"/> 
+   <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="redux" width="95" height="30"/> </p>
 
 <h2>📊 My Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en" alt="vaishu0428" /></p>
