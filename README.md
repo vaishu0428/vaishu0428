@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu0428&label=Profile%20views&color=0e75b6&style=flat" alt="vaishu0428" /> </p>
-<h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU" height="20" width="20"> About Me:</h2>
+<h2><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJtBlngzUD5S2nHEXgG3DJ2PaNqlZCW9WDA&usqp=CAU" height="20" width="20"> About Me:</h2>
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
