@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vaishnvischaudhari28@gmail.com**
 
-
+<h3> I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 <h2 align="left"> 📫 Connect with me :</h2>
 <p align="left">
   <a href="https://github.com/vaishu0428" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/vaishu0428" height="30" width="100" /></a>
