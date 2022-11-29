@@ -14,15 +14,21 @@
 - 📫 How to reach me **vaishnvischaudhari28@gmail.com**
 
 <h3> I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
+
+<br>
+<hr>
 <h2 align="left"> 📫 Connect with me :</h2>
-<p align="left">
-  <a href="https://github.com/vaishu0428" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/vaishu0428" height="30" width="100" /></a>
-</p>
+<p align="center" width="70" margin="auto">
+  <div display="flex">
+ 
+
 <a href="https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/vaishnavi-chaudhari-345b97228" height="30" width="100" /></a>
-  <a href="vaishnvischaudhari28@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="vaishnvischaudhari28@gmail.com" height="30" width="100" /></a>
+     <a href="https://github.com/vaishu0428" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/vaishu0428" height="30" width="100" /></a>
+  <a href="vaishnvischaudhari28@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="vaishnvischaudhari28@gmail.com" height="30" width="100" /></a></div>
 </p>
   
-
+<br>
+<hr>
 <h2 align="left"> 🚀 Languages and Tools :</h2>
 <p align="left">  <img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="bootstrap" width="75" height="30"/> 
 
@@ -49,9 +55,10 @@
   
   <img src="https://camo.githubusercontent.com/f82ac85fe97f0da1e1ae1da9395a4f22904e577fbe6f0bcaeb3a7b21c10eeff3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d77686974" alt="react" width="70" height="30"/> 
    <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="redux" width="95" height="30"/> </p>
-
-<h2>📊 My Github Stats</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en" alt="vaishu0428" /></p>
+<br>
+<hr>
+<h2>📊 My Github Stats</h2><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en" alt="vaishu0428" border="0"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&" alt="vaishu0428" /></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=vaishu0428&theme=react-dark">
