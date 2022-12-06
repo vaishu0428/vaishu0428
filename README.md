@@ -61,6 +61,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishu0428&show_icons=true&locale=en&layout=compact&bg_color=0D1117&theme=react&hide_border=true" alt="vaishu0428" /></p><br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428"/></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br> -->
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=vaishu0428&theme=react-dark&hide_border=true">
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react" alt="Vaishu0428" height="250px" width="47%" /></p><br>
