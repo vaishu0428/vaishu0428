@@ -63,4 +63,4 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br> -->
 
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react" alt="Vaishu0428" height="250px" width="47%" /></p><br>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&bg_color=0D1117" alt="Vaishu0428"  /></p><br>
