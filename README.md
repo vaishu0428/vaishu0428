@@ -64,3 +64,4 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br> -->
 
   <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&bg_color=0D1117" alt="Vaishu0428"  /></p><br>
+<a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Vaishnavi Chaudhari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
