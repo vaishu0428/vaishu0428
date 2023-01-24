@@ -3,6 +3,7 @@
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu0428&label=Profile%20views&color=0e75b6&style=flat" alt="vaishu0428" /> </p>
+<p width="100%" margin="auto" ><img  width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="30" width="30"> About Me :</h2>
 
 
@@ -24,6 +25,7 @@
  I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 
 <br>
+
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 <h2 align="left"> 📫 Connect with me :</h2>
 <p align="center" >
@@ -36,7 +38,8 @@
 </p>
   
 <br>
-<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 <h2 align="left"> 🚀 Languages and Tools :</h2>
 <div align="center">
  
@@ -66,7 +69,7 @@
    <br/>
  </div>
 </div>
-<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 
 <h2>📊 My Github Stats</h2><br>
    <p align="center">  <img src="https://media4.giphy.com/media/TnBgIx5LBan987I7j9/200w.gif?cid=82a1493b5bey1dcqrvbtpuhozaw2gqxm7tik43l1skr53u7g&rid=200w.gif&ct=s"/>  <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=false" /></a><img src="https://media1.giphy.com/media/YDbAwy8DBNKeh1GqRa/200w.gif?cid=82a1493b5bey1dcqrvbtpuhozaw2gqxm7tik43l1skr53u7g&rid=200w.gif&ct=s" /></p>  <br>
@@ -80,7 +83,7 @@
 
 <a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Vaishnavi Chaudhari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 <br>
-<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /></p>
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
 <p width="30%" margun="auto" align='center'>
 <img  src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" width="300" h='250'>
