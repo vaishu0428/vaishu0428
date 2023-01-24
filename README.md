@@ -70,7 +70,6 @@
 
 <h2>📊 My Github Stats</h2><br>
    <p align="center">      
-  <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=false&bg_color=0D1117" /></a>
       </p>  <br>
   <p align="center">                                                                                                 
     <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=algolia&hide_border=false&bg_color=0D1117" alt="vaishu0428" /></a>
