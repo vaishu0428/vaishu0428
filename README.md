@@ -81,5 +81,5 @@
 
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
 <p align="center">
-  <img width="300" height="200" src="https://123goodmorningquotes.com/wp-content/uploads/2020/05/Thank-You-GIF-1.gif">
+  <img width="300" height="200" src="https://static.wixstatic.com/media/c12e43_15bda2708552498cb7b825a015ebda0c~mv2.gif">
 </p>
