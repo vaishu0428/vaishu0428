@@ -76,7 +76,7 @@
 
 
 
-<a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Vaishnavi Chaudhari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Vaishnavi Chaudhari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 <br>
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
