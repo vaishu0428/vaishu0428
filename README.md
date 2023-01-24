@@ -73,7 +73,7 @@
   <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
       </p>  <br>
   <p align="center">                                                                                                 
-    <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></a>
+    <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=false&bg_color=0D1117" alt="vaishu0428" /></a>
     </p> 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br> -->
 
