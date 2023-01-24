@@ -69,7 +69,9 @@
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 
 <h2>📊 My Github Stats</h2><br>
-   <p align="center">    <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=false" /></a></p>  <br>
+   <p align="center">  <img src="https://media4.giphy.com/media/TnBgIx5LBan987I7j9/200w.gif?cid=82a1493b5bey1dcqrvbtpuhozaw2gqxm7tik43l1skr53u7g&rid=200w.gif&ct=s"/>  <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=false" /></a><img src="https://media1.giphy.com/media/YDbAwy8DBNKeh1GqRa/200w.gif?cid=82a1493b5bey1dcqrvbtpuhozaw2gqxm7tik43l1skr53u7g&rid=200w.gif&ct=s" /></p>  <br>
+   
+   
   <p width="100%" margin="auto" align="center">                                                                                                 
     <a href="https://github.com/vaishu0428/github-readme-stats"><img width="48%" alt="vaishu0428 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=algolia&hide_border=false"  /></a> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=algolia" alt="Vaishu0428"  />
     </p> 
