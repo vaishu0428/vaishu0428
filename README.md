@@ -70,14 +70,14 @@
 
 <h2>📊 My Github Stats</h2><br>
    <p align="center">      
-  <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=false&bg_color=0D1117" /></a>
       </p>  <br>
   <p align="center">                                                                                                 
-    <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=react&hide_border=false&bg_color=0D1117" alt="vaishu0428" /></a>
+    <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishu0428&show_icons=true&locale=en&theme=algolia&hide_border=false&bg_color=0D1117" alt="vaishu0428" /></a>
     </p> 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&hide_border=true&bg_color=0D1117" alt="vaishu0428" /></p><br> -->
 
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=react&bg_color=0D1117" alt="Vaishu0428"  /></p><br>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu0428&theme=algolia&bg_color=0D1117" alt="Vaishu0428"  /></p><br>
 <a href="https://github.com/Vaishnavi-Chaudhari/github-readme-activity-graph"><img alt="Vaishnavi Chaudhari Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishu0428&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
