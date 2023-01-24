@@ -81,5 +81,5 @@
 <p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 <h2 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Motivated"></h2>
 <p width="30%" margun="auto" align='center'>
-<img width="100%" h='150px' src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" >
+<img  src="https://i.pinimg.com/originals/cc/a8/f0/cca8f07aea239eff9f4e07c0145e27f5.gif" width="300" h='250'>
  </p>
