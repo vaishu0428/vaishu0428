@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishu0428&label=Profile%20views&color=0e75b6&style=flat" alt="vaishu0428" /> </p>
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="30" width="30"> About Me :</h2>
-<p><img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
@@ -17,8 +17,10 @@
 - 💞️ I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me **vaishnvischaudhari28@gmail.com**
+![image](https://user-images.githubusercontent.com/108001787/214254322-9d05e750-c6fc-49bd-9c67-72e2f68d1ffa.png)
 
-- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
+- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.![image](https://user-images.githubusercontent.com/108001787/214254299-3bcde638-4a02-4e85-a836-691d0e2fb516.png)
+
 <h3><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" height="30" width="30"/>
  I love networking with people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 
@@ -35,7 +37,7 @@
 </p>
   
 <br>
-<hr>
+
 <h2 align="left"> 🚀 Languages and Tools :</h2>
 <div align="center">
  
@@ -66,7 +68,7 @@
  </div>
 </div>
 
-<hr />
+
 <h2>📊 My Github Stats</h2><br>
    <p align="center">      
   <a href="https://github.com/vaishu0428/github-readme-stats"><img alt="vaishu0428 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu0428&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
